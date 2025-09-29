@@ -1,0 +1,2 @@
+# SQL-lessons
+learning SQL
